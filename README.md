@@ -15,9 +15,7 @@ This project focuses on cleaning and preparing the SuperStore Sales dataset for 
 * [SuperStore Sales Datacleaning.ipynb](https://github.com/al3x-id/SuperStore-Sales-DataCleaning-Project-/blob/main/SuperStore%20Sales%20Datacleaning.ipynb): Jupyter Notebook containing all the steps for data cleaning with Python (using `pandas`).
 
 ## Cleaning Tasks Summary
-
-* Checked for and removed duplicate rows
-* Renamed columns for readability
+* Standardized columns for readability
 * Converted date fields to datetime objects
 * Handled missing values appropriately
 * Filtered and categorized data for consistency
